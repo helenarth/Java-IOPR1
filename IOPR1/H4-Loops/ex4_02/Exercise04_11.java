@@ -15,7 +15,7 @@ public class Exercise04_11 {
 		
 		if ( num == true)
 		{
-			System.out.println(	 + 	" is dividible ");
+			System.out.println(		" is dividible ");
 			
 			
 			

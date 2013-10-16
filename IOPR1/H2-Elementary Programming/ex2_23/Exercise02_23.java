@@ -4,7 +4,7 @@ public class Exercise02_23 {
 //  moet nog gefixt worden 
 	public static void main(String[] args) {
 
-		char x = 'x';s
+		char x = 'x';
 
 		int cast = (int) x;
 
