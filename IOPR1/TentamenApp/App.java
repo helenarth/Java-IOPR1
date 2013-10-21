@@ -1,5 +1,5 @@
-public class TentamenApp {
 
+public class App {
 	public static void main(String[] args) {
 		// maak een nieuw object Student
 		Student student = new Student();

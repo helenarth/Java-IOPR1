@@ -13,7 +13,7 @@ public static void main(String[] args) {
 		{
 			
 			
-			System.out.println("Haarlem" + Station.roepOm());
+			System.out.println("Haarlem" + Station.roepOm(null));
 			
 		}
 		

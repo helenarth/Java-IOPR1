@@ -1,16 +1,16 @@
 
 public class weerbericht {
 
-	
+
 	// atriubten 
-	private String berichtenarray;
+	private String[] berichtenarray;
 	String berichten ; 
 	public weerbericht() {
 		
 		this.berichtenarray = new String[7] ;
 	
 		berichten = " zon, regen, bewolkt";
-		for ( int i= 0 ; i <array.length; i++) 
+		for ( int i= 0 ; i <berichtenarray.length; i++) 
 		{
 			
 			System.out.println(" Het weer voor de volgnde week is>:");
@@ -23,6 +23,6 @@ public class weerbericht {
 	{
 		
 		
-		retrun berichten;
+		return berichten;
 	}
 }

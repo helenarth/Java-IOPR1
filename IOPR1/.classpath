@@ -9,7 +9,9 @@
 	<classpathentry kind="src" path="H7-Multidemanion Array"/>
 	<classpathentry kind="src" path="H8 Objects_Classes"/>
 	<classpathentry kind="src" path="H9 Strings_and_Text"/>
-	<classpathentry kind="src" path="opd_station2"/>
+	<classpathentry kind="src" path="Opd_station"/>
+	<classpathentry kind="src" path="TentamenApp"/>
+	<classpathentry kind="src" path="weerbericht"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

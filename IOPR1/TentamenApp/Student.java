@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class Student {
-
 	// de kenmerken van een Studenten, ook wel attributen of properties genoemd
 
 	private String studentNaam;
@@ -84,6 +83,7 @@ public class Student {
 		return gemiddelde;
 	}
 
+	// getters and setters
 	public String getStudentNaam() {
 		return studentNaam;
 	}
