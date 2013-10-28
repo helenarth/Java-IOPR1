@@ -1,19 +1,23 @@
 public class StationApp {
 public static void main(String[] args) {
+	//maak vier Station klassen in een array
+	//geef van elk station de volgende plaatsnamen mee: Haarlem, Leiden, Utrecht en Zwolle
+		Station[] stations = new Station[4] ;
+
 		
-		Station[ ] stationarray = new Station[4] ;
+		stations[0] = new Station(" Haarlem");
+		stations[1] = new Station(" Leiden");
+		stations[2] = new Station(" Utrecht");
+		stations[3] = new Station(" Zwolle");
 		
-		stationarray[0] = "Haarlem";
-		stationarray [1 ] = "Leiden";
-		stationarray [2 ] = "Utrecht";
-		stationarray[3] = "Zwolle";
-		
-		
-		for  (int i = 0 ; i < stationarray.length; i++)
+		//print van alle Station klassen het huidige bericht over
+		//de trein naar Amsterdam m.b.v. een loop/lus
+		//v.b.: station.roepOm( "Amsterdam" )
+		for  (int i = 0 ; i < stations.length; i++)
 		{
 			
 			
-			System.out.println("Haarlem" + Station.roepOm(null));
+			System.out.println(stations[i].roepOm(" Amsterdam"));
 			
 		}
 		

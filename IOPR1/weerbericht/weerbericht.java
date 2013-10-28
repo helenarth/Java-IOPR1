@@ -3,17 +3,17 @@ public class weerbericht {
 
 
 	// atriubten 
-	private String[] berichtenarray;
-	String berichten ; 
+	
+	String berichten;
 	public weerbericht() {
 		
-		this.berichtenarray = new String[7] ;
+		String[] berichtenarray = new String[7] ;
 	
-		berichten = " zon, regen, bewolkt";
+		berichten = " Zon";
 		for ( int i= 0 ; i <berichtenarray.length; i++) 
 		{
 			
-			System.out.println(" Het weer voor de volgnde week is>:");
+	//		System.out.println(" Het weer voor de volgnde week is:" + berichten);
 			
 			
 		}
