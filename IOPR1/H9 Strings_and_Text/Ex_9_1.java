@@ -6,8 +6,7 @@ public class Ex_9_1 {
 
 		Scanner input = new Scanner(System.in);
 
-		System.out
-				.println(" Please enter a your fucking Social shit like this XXX-XX-XXXX: ");
+		System.out.print(" Please enter a your fucking Social shit like this XXX-XX-XXXX: ");
 
 		String s = input.nextLine();
 
@@ -21,21 +20,7 @@ public class Ex_9_1 {
 
 	public static boolean isValidSSN(String ssn) {
 
-		// int low = 0 ;
-		//
-		//
-		// int high = s.length() - 1;
-		//
-		// while ( low < high){
-		//
-		// if (s.charAt(low)) != s.charAt(high)
-		//
-		// return false;
-		//
-		// low++;
-		// high--;
-		// }
-		// return true;
+
 
 		return (ssn.length() == 11) && (Character.isDigit(ssn.charAt(0)))
 				&& (Character.isDigit(ssn.charAt(1)))

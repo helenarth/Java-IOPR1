@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="IOPR1/H1"/>
+	<classpathentry kind="src" path="IOPR1/H2-Elementary Programming"/>
+	<classpathentry kind="src" path="IOPR1/H3-Selections"/>
+	<classpathentry kind="src" path="IOPR1/H4-Loops"/>
+	<classpathentry kind="src" path="IOPR1/H5-Methods"/>
+	<classpathentry kind="src" path="IOPR1/H6-Single-DimensionalArrays"/>
+	<classpathentry kind="src" path="IOPR1/H7-Multidemanion Array"/>
+	<classpathentry kind="src" path="IOPR1/H8 Objects_Classes"/>
+	<classpathentry kind="src" path="IOPR1/H9 Strings_and_Text"/>
+	<classpathentry kind="src" path="IOPR1/Opd_station"/>
+	<classpathentry kind="src" path="IOPR1/TentamenApp"/>
+	<classpathentry kind="src" path="IOPR1/weerbericht"/>
+	<classpathentry kind="src" path="H9_Herhaling_opdrachten"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
