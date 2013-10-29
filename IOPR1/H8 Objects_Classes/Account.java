@@ -1,19 +1,18 @@
 import javax.xml.crypto.Data;
 
-
 public class Account {
 
-	private int id ; 
-	private double balance; 
-	private double annualInteresRate ;
+	private int id;
+	private double balance;
+	private double annualInteresRate;
 	private Data datacreated;
-	
-	public Account(int id , double balance ) {
-	this.balance = balance;
-	this.id = id;
-	
-		
-		
+
+	public Account(int id, double balance) {
+
+		this.balance = balance;
+
+		this.id = id;
+
 	}
 
 	public Data getDatacreated() {
@@ -47,22 +46,15 @@ public class Account {
 	public void setBalance(double newbalance) {
 		this.balance = newbalance;
 	}
-	
-	
-	public int accessor()
-	{
+
+	public int accessor() {
 		return id;
-		
-		
+
 	}
-	
-	
+
 	public static void main(String[] args) {
 		Account account = new Account(1122, 20000);
-		
+
 	}
-	
-	
-	
-	
+
 }
