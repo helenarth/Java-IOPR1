@@ -17,8 +17,8 @@ public static void main(String[] args) {
 		{
 			
 			
-			System.out.println(stations[i].roepOm(" Amsterdam"));
-			
+			System.out.println(stations[i].roepOm(" Haarlem"));
+			System.out.println(stations[i].roepOm(" Leiden"));
 		}
 		
 	}

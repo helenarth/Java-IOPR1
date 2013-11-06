@@ -20,9 +20,10 @@ public class weerbericht {
 			//maak een willekeurig getal van 0 tot 3 (0, 1 en 2)
 			int weer = (int) (Math.random() * 3);
 			//elk getal stelt een weertype voor, en wordt in de array opgeslagen
-			if (weer ==0 ) {
+			if (weer == 0 ) 
+			{
 				
-				berichten[i] = "zon";
+				berichten[i] = " zon ";
 			}
 			else if( weer == 1)
 			{
@@ -34,7 +35,7 @@ public class weerbericht {
 			else if ( weer == 2)
 			{
 				
-				berichten[i] = " Bewolkt";
+				berichten[i] = " Bewolkt ";
 				
 			}
 			

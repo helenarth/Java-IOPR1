@@ -16,18 +16,22 @@ public class Station {
 	// komt binnen op spoor <willekeurig getal tussen 1 en 19>
 	// vertrekt over ongeveer <willekeurig getal tussen 5 en 15> minuten
 
-	public String roepOm(String besteming) {
-		String bericht = plaatsNaam + " De train naar" + besteming + " ";
+	public String roepOm(String besteming)
+	{
+		
+		String bericht = plaatsNaam + " De train naar" + besteming + " "  ;
 
-		if ((int) (Math.random() * 2) % 2 == 0) {
+		if (	(int) (Math.random() * 2) % 2 ==0 ) 
+		{
 
-			bericht = bericht + " komt binnen op spoor"
-					+ (int) (Math.random() * 18 + 1);
+			bericht +=" komt binnen op spoor" + (int) (Math.random() * 18 + 1);
 
-		} else {
+		}
+		else 
+		
+		{
 
-			bericht = bericht + " vertrekt over ongeveer "
-					+ ((int) (Math.random() * 10 + 5) + " minuten");
+			bericht += " vertrekt over ongeveer " + ((int) (Math.random() * 10 + 5) + " minuten");
 
 		}
 
