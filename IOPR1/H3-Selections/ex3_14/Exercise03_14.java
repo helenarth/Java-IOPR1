@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Exercise03_14 {
 
-	// moet nog vragen aan Berry.
+	
 	
 	public static void main(String[] args)
 	  {
@@ -24,7 +24,7 @@ public class Exercise03_14 {
 	    
 
 	    // Check the guess
-	    if ( tail % 1 == 0 && tail % 1 == 0 )
+	    if ( tail % 1 == 0  )
 	      System.out.println("Correct guess");
 	    
 	    if ( head % 0 == 0 || head % 3 == 0 )

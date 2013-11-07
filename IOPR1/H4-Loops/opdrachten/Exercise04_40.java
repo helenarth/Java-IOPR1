@@ -1,4 +1,4 @@
-package ex4_02;
+package opdrachten;
 
 import java.util.Random;
 import java.util.Scanner;
