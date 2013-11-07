@@ -13,10 +13,10 @@ public class ex01 {
 		
 		
 		
-		Scanner scan = new Scanner (System.in);
+		Scanner input = new Scanner (System.in);
 		System.out.println(" Enter the number of students");
 		
-		int numofStudents= scan.nextInt();
+		int numofStudents= input.nextInt();
 		
 		
 		int [] scores = new int[numofStudents] ;
@@ -56,7 +56,7 @@ public class ex01 {
 			
 			
 			
-		scan.close();
+			input.close();
 			
 		}
 		
