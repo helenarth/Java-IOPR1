@@ -4,6 +4,7 @@ public class opdracht7
 	private String naam ; 
 	private int geboortejaar;
 	private boolean geuvld;
+	private String leeftijd;
 	
 	public opdracht7(String naam, int geboortejaar, String leeftijd)
 	{
