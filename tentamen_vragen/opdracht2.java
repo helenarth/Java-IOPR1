@@ -23,6 +23,7 @@ public class opdracht2 {
 	 * void
 	 * system
 	 * int
+	 * Data
 	 * 
 	 * 
 	 */
