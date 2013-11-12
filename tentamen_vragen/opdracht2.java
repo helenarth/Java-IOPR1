@@ -1,7 +1,7 @@
 
 public class opdracht2 {
 	
-	// opdracht 2 waren livaires 
+	// opdracht 2 waren libariers 
 	
 	
 	// p staat voor primitive type
@@ -20,6 +20,8 @@ public class opdracht2 {
 	 * String
 	 * than
 	 * triple
+	 * void
+	 * system
 	 * 
 	 */
 
