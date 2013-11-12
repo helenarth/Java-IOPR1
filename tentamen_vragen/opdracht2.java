@@ -22,6 +22,8 @@ public class opdracht2 {
 	 * triple
 	 * void
 	 * system
+	 * int
+	 * 
 	 * 
 	 */
 
