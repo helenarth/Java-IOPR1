@@ -8,7 +8,7 @@ public class opdracht5 {
 	 */
 	// het hoeft geen main methode te zijn, je kan ook  een static string method gebruiker om iet te "Returnen " en bij void return je nix 
 
-		public static String getleeftijd()
+		public static String leeftijd()
 		{
 			
 			String [ ] kleur = { "Grijs", "rood", "groen", "blauw", "donker", "anders" };
@@ -39,7 +39,7 @@ public class opdracht5 {
 			else if ( isColor == true)
 			{
 				
-				System.out.println("de kleur is" + kleur[ 3]);
+				System.out.println("de kleur is" + kleur[3]);
 				
 			}
 			else if ( isColor == false)
@@ -50,9 +50,10 @@ public class opdracht5 {
 			}
 			else {
 				
-				System.out.println("de kleur is: " +  kleur[5]);
+				return ("de kleur is: " +  kleur[5]);
 				
 			}
+//			return null;
 		
 			
 		}
