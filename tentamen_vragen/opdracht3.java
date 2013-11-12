@@ -11,9 +11,11 @@ public class opdracht3 {
 	 * en zovoorts
 	 * 
 	 */
-	
+	if ( xPostie < 10 && yPostie > 10 ) 
+		
 	if ( xPositie > 10 && yPostie < 20)
 		// niet groter is dan
-	if ( xPositie <= 10 || yPositie => 20)
-	if ()	
+	if ( xPositie <= 10 || yPositie => 20);
+	// 
+	if (xPositie == 10 || xPostie == 11 || yPositie == 10 || yPostie == 11  );	
 }
