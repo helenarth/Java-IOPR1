@@ -24,6 +24,9 @@ public class opdracht2 {
 	 * system
 	 * int
 	 * Data
+	 * long
+	 * float
+	 * 
 	 * 
 	 * 
 	 */
