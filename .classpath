@@ -13,6 +13,7 @@
 	<classpathentry kind="src" path="IOPR1/TentamenApp"/>
 	<classpathentry kind="src" path="IOPR1/weerbericht"/>
 	<classpathentry kind="src" path="H9_Herhaling_opdrachten"/>
+	<classpathentry kind="src" path="tentamen_vragen"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
