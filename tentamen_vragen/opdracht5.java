@@ -15,7 +15,7 @@ public class opdracht5 {
 			boolean isColor = false ;
 			int getal = 0 ;
 			
-			
+				
 			if ( getal == 0) 
 			{
 //				System.out.println("de kleur is: " + kleur[0] );
@@ -53,7 +53,7 @@ public class opdracht5 {
 				return ("de kleur is: " +  kleur[5]);
 				
 			}
-//			return null;
+			return kleur[1] + isColor;
 		
 			
 		}
