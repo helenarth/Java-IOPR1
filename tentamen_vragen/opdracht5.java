@@ -6,7 +6,7 @@ public class opdracht5 {
 	 * deze opdracht was het moeilijkste
 	 * 
 	 */
-	// het hoeft geen main methode te zijn, je kan een static string method gebruiker om iet te "Returnen " en bij void return je nix 
+	// het hoeft geen main methode te zijn, je kan ook  een static string method gebruiker om iet te "Returnen " en bij void return je nix 
 	public static void main(String[] args) {
 		String [ ] kleur = { "Grijs", "rood", "groen", "blauw", "donker", "anders" };
 		boolean isColor = false ;
