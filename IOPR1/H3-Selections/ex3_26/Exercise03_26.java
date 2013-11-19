@@ -14,19 +14,17 @@ public class Exercise03_26 {
 
 		if (number % 2 == 0 && number % 3 == 0)
 			;
-		System.out.println(number
-				+ " das niet de juiste G, je moet die andere boy hebbe matti, schiet eens op kakerlak " );
+		System.out.println(number+ " das niet de juiste G, je moet die andere boy hebbe matti, schiet eens op kakerlak \n" );
 		
 		
-		System.out.println(" probeer nog een keer.. ");
+		System.out.print(" probeer nog een keer.. \n");
 				
-		Scanner ad = new Scanner(System.in);
+		
 		int asd = scanner.nextInt();
 		
-		if ( asd % 2 == 2 || asd %2 == 0)
+		if ( asd % 2 == 0 || asd %2 == 0)
 			System.out.println(asd + " ja deze matie, deze moete whe hebben boy");
-		
-		scanner.close();
+	
 		
 	}
 }

@@ -11,8 +11,7 @@ public class ex_3_14 {
 	
 	Scanner input = new Scanner ( System.in);
 	
-	System.out.print("Guess head or tail? " +
-		      "Enter 0 for head and 1 for tail: ");
+	System.out.print("Guess head or tail? " +     "Enter 0 for head and 1 for tail: ");
 int guess = input.nextInt();
 
 System.out.print(" try one more time, for fun: ");
