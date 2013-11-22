@@ -14,10 +14,10 @@ public class opdracht2 {
 	 * main			 R
 	 * Class		 C	
 	 * char			P
-	 * private		P
+	 * private		R
 	 * double		P
 	 * boolean		P
-	 * String		P
+	 * String		R
 	 * than			x
 	 * triple		X
 	 * void			R
@@ -26,6 +26,9 @@ public class opdracht2 {
 	 * Data			P
 	 * long			P
 	 * float		P
+	 * byte			P
+	 * Short		P
+	 * public		C	
 	 * 
 	 * 
 	 * 
