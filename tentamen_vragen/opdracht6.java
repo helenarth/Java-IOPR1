@@ -13,12 +13,12 @@ public class opdracht6 {
 	 * 
 	 *  vragen waren zoals 
 	 *  
-	 *  String resutal = 
+	 *  String result = 
 	 *  
-	 * 	persoon.length
-	 * 	persoon.length -1
-	 * 	persoon.[ 1] 
-	 *  add.persoon [ 1.5] ; 
+	 * 	persoon.length			fout melding
+	 * 	persoon.length -1		(docent2)
+	 * 	persoon.[ 1] 			docent0
+	 *  add.persoon [ 1.5] ; 	fout
 	 *
 	 *
 	 */

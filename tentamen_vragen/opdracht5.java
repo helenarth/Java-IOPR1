@@ -27,7 +27,7 @@ public class opdracht5 {
 			else if ( getal == 1)
 			{
 				
-				System.out.println("de getal is is " + kleur[ 1]); 
+				System.out.println("de getal is is " + kleur[1]); 
 				
 			}
 			else if ( getal == 2 )

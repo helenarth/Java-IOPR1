@@ -11,21 +11,21 @@ public class opdracht2 {
 	
 	/*
 	 * 
-	 * main
-	 * Class
-	 * char
-	 * private
-	 * double
-	 * boolean
-	 * String
-	 * than
-	 * triple
-	 * void
-	 * system
-	 * int
-	 * Data
-	 * long
-	 * float
+	 * main			 R
+	 * Class		 C	
+	 * char			P
+	 * private		P
+	 * double		P
+	 * boolean		P
+	 * String		P
+	 * than			x
+	 * triple		X
+	 * void			R
+	 * system		R
+	 * int			R
+	 * Data			P
+	 * long			P
+	 * float		P
 	 * 
 	 * 
 	 * 
