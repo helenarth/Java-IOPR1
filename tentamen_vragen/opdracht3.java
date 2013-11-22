@@ -19,5 +19,5 @@ public class opdracht3 {
 	// 
 	
 	
-	if (xPositie == 10 || xPostie == 11 || yPositie == 10 || yPostie == 11  );	
+	if (xPositie == 10 || xPostie == 11 && yPositie == 10 || yPostie == 11  );	
 }

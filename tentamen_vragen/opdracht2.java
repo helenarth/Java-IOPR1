@@ -8,11 +8,14 @@ public class opdracht2 {
 	// C staat voor Class
 	// R staat voor reserverd voor andere dingen 
 	// x voor nix 
+	//http://java.about.com/od/javasyntax/a/reservedwords.htm
+	// http://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
+	
 	
 	/*
 	 * 
-	 * main			 R
-	 * Class		 C	
+	 * main			R
+	 * Class		C	
 	 * char			P
 	 * private		R
 	 * double		P
@@ -22,17 +25,20 @@ public class opdracht2 {
 	 * triple		X
 	 * void			R
 	 * system		R
-	 * int			R
+	 * int			P
 	 * Data			P
 	 * long			P
 	 * float		P
 	 * byte			P
 	 * Short		P
-	 * public		C	
+	 * public		R
+	 * static 		R
+	 * 	
 	 * 
 	 * 
 	 * 
 	 */
+	
 
 
 }
