@@ -18,42 +18,42 @@ public class opdracht5 {
 				
 			if ( getal == 0) 
 			{
-//				System.out.println("de kleur is: " + kleur[0] );
+
 			
-				return (" de kleur is " + kleur[0]);
+			return kleur[0];
 				
 								
 			}
 			else if ( getal == 1)
 			{
 				
-				System.out.println("de getal is is " + kleur[1]); 
+				 
 				
 			}
 			else if ( getal == 2 )
 			{
 				
-				System.out.println("de kleur is " + kleur[2]);
+			
 				
 			}
 			else if ( isColor == true)
 			{
-				
-				System.out.println("de kleur is" + kleur[3]);
+			
 				
 			}
 			else if ( isColor == false)
 			{
 				
-				System.out.println("de kleur is" + kleur[4]);
+				
 				
 			}
 			else {
 				
-				return ("de kleur is: " +  kleur[5]);
+				
 				
 			}
-			return kleur[1] + isColor;
+			
+			return kleur[] + isColor;
 		
 			
 		}

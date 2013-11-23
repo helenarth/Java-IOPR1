@@ -1,7 +1,8 @@
 import java.util.Scanner;
 
-
-public class opdracht4 {
+/*kijk opdrachten van hoofstuk  5*/
+public class opdracht4 
+{
 
 	
 	public static void main (String[] args	)
@@ -19,6 +20,7 @@ public class opdracht4 {
 		{
 			
 			optelreeks += invoer;
+			System.out.println("een getal is bijgekomen\n");
 			
 		}
 		
