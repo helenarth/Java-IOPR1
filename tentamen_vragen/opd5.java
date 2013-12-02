@@ -1,50 +1,48 @@
 
 public class opd5 {
-	
-	public static void main(String[] args) {
-		
-		System.out.print("de kleur is " + kleur());
-		
-		
-		
-	}
-	
+//	
+//	 int getal = 0;
+//	 boolean isColor = false;
+
+//	public opd5(int getal, boolean isColor)
+//	 {
+//
+//		this.getal = getal;
+//		this.isColor = isColor;
+//	}
+
 	public static String kleur()
 	{
 		
-		String  kleur = grijs;
-		int getal = 0;
-		boolean isColor;
-		
-		
-		
+		int getal = 0 ;
+		String kleur = "";
+		boolean isColor = false;
 		
 		if ( getal == 1){
-			return "Rood"; 
+			kleur = "Rood"; 
 			
 		}
 		else if (getal == 2)
 		{
-			return "Groen";
+			kleur = "Groen";
 			
 		}
 		else if (getal == 3)
 		{
-			return "blauw";
+			kleur = "blauw";
 			
 		}
 		
 		else if (isColor == true)
 		{
-			return "Donker";
+			kleur = "Donker";
 			
 		}
-		
-		
-		
+		if(isColor) {
+
+			return "Donker" + kleur;	
+		}
 		return kleur;
-		
-		
 	}
 
 }
