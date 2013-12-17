@@ -31,11 +31,11 @@ public class opdracht7
 		
 	}
 	
-	public int getleeftijd(int huidigejaar)
+	public int getleeftijd()
 	{
 		
 		
-		return geboortejaar - huidigejaar;
+		return 2013 - this.geboortejaar;
 		
 	}
 	

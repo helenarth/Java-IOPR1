@@ -8,23 +8,26 @@ public class opdracht4
 	public static void main (String[] args	)
 	{
 		
-		
 		Scanner input = new Scanner(System.in);
 		
-		System.out.print("voer een geheel getal in: ");
+		int optelReeks = 0;
+		int getal = 0 ;
 		
-		int invoer = input.nextInt();
-		int optelreeks = 0;
-		
-		while ( invoer != 0)
+		do
 		{
 			
-			optelreeks += invoer;
-			System.out.println("een getal is bijgekomen\n");
+			System.out.print("Voer een getal in:" );
+			
+			getal = input.nextInt();
+			optelReeks+=getal;
 			
 		}
+		while (getal!=0);
 		
-		System.out.print("de Optelgetal is:" + optelreeks);
+			
+			System.out.print(optelReeks);
+			
 		
-	}
+	
+}
 }
