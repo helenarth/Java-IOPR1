@@ -11,7 +11,7 @@ public static void main(String[] args) {
 		{
 			
 			
-			System.out.print((cunt++ % 10 != 0) ? i + " ": i + "\n");
+			System.out.print((banana++ % 10 != 0) ? i + " ": i + "\n");
 		}
 		
 	}
